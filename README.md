@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=4B0082=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=darkviolet=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
 
 <h3 align="center">A passionate Frontend Developer | ReactJS</h3>
@@ -14,11 +14,11 @@ with a strong interest in programming, particularly in web development. </p>
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
   </a>
+  <a href="https://www.facebook.com/khairil.rahman.9828" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-slategrey?style=for-the-badge&labelColor=blue&logo=facebook" target="_blank" />
+  </a>
   <a href="https://www.instagram.com/kiril.hrp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-slategrey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=deeppink" target="_blank" />
-  </a>
-  <a href="https://www.facebook.com/khairil.rahman.9828" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-slategrey?style=for-the-badge&labelColor=mediumblue&logo=facebook" target="_blank" />
   </a>
 </div>
 
