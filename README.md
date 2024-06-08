@@ -8,6 +8,8 @@
 <hr/>
  
 <div align="center"> 
+    <p> I am a student majoring in Information Systems </p>
+    <p> with a strong interest in programming, particularly in web development. </p>
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -18,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma&theme=light" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma&theme=light" /><br>
 </div>
 
 <br/>
