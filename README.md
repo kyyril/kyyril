@@ -14,6 +14,12 @@ with a strong interest in programming, particularly in web development. </p>
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/kiril.hrp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/khairil.rahman.9828" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&labelColor=black&logo=facebook" target="_blank" />
+  </a>
 </div>
 
  <br/>
