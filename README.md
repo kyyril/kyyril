@@ -8,7 +8,7 @@
  
 <div align="center"> 
 
-<p> I'm a student majoring in Information Systems with a strong interest in programming, especially web development. </p>
+<p> I'm a student majoring in Information Systems with a strong passion for programming, especially in web development. </p>
 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
