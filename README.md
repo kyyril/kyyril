@@ -9,7 +9,7 @@
 <br/>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/khairil-rahman-a451a6251/" target="_blank">
+  <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -19,8 +19,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,github" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,github" /><br>
 </div>
 
 <br/>
