@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate Frontend Developer | ReactJS</h3>
-
-<br/>
+<hr/>
  
 <div align="center"> 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
@@ -15,12 +14,12 @@
 </div>
 
  <hr/>
- 
+ <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,github" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,tailwind&theme=light" />
 </div>
 
 <br/>
