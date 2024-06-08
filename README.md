@@ -1,10 +1,13 @@
+<hr/>
+
+<br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=darkviolet&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend Developer | ReactJS</h3>
+<h3 align="center">A Passionate Frontend Developer | ReactJS</h3>
  
 <div align="center"> 
 
@@ -22,7 +25,7 @@
 </div>
 
  <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,tailwind&theme=light" /><br>
