@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Frontend Developer | ReactJS</h3>
  
 <div align="center"> 
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
     <p> I am a student majoring in Information Systems </p>
     <p> with a strong interest in programming, particularly in web development. </p>
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
@@ -15,7 +15,6 @@
   </a>
 </div>
 
- <hr/>
  <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
