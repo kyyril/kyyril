@@ -1,6 +1,4 @@
-<hr/>
 
-<br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <h1 align="center">
