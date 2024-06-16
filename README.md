@@ -6,9 +6,9 @@
 
 <div>
    <h3 align="center">A Passionate Frontend Developer</h3>
-   <img class="coding-gif" align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+   <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
 
-   <ul class="info-list">
+   <ul>
        <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
        <li>🎯 I’m currently learning <strong>Next JS</strong></li>
        <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
@@ -41,7 +41,7 @@
 
 <br>
 
-<h2 align="center">⚡ Stats</h2>
+<h3 align="center">⚡ Stats</h3>
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=KhairilRahman04&show_icons=true&hide_border=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=KhairilRahman04&show_icons=true&hide_border=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
@@ -50,20 +50,3 @@
 </div>
 
 <hr/>
-
-<style>
-@media (max-width: 768px) {
-    .coding-gif {
-        display: block;
-        margin: 0 auto 20px;
-    }
-    .info-list {
-        padding-left: 0;
-        text-align: center;
-    }
-    .info-list li {
-        list-style: none;
-        margin-bottom: 10px;
-    }
-}
-</style>
