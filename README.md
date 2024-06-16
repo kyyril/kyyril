@@ -6,15 +6,14 @@
 </h1>
 
 <h3 align="center">Frontend Developer | ReactJS</h3>
+
+- 👨‍💻 I’m a student majoring in **Information Systems**
+- 🎯 I’m currently learning **Next JS**
+- 💬 Ask me about **ReactJs, Tailwind, Javascript... or anything [here](https://github.com/KhairilRahman04/KhairilRahman04/issues)**
+- 📫 How to reach me **khairilrahmanhakiki04@gmail.com**
+- 🌱 I love computer **Science And Philosophy**
  
 <div align="center"> 
- 👨‍💻 I’m a student majoring in **Information Systems**
- 🎯 I’m currently learning **Next JS**
- 💬 Ask me about **ReactJs, Tailwind, Javascript... or anything [here](https://github.com/KhairilRahman04/KhairilRahman04/issues)**
- 📧 How to reach me <a href= "khairilrahmanhakiki@gmail.com">khairilrahmanhakiki@gmail.com</a>
- 🌱 I love computer **Science And Philosophy**
- 
-
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
   </a>
@@ -33,7 +32,18 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind&theme=light" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma&theme=light" />
 </div>
+<hr/>
+<br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=KhairilRahman04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=KhairilRahman04&theme=tokyonight&hide_border=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhairilRahman04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<br/>
+<br/><br/>
 
 <hr/>
+
