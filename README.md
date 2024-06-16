@@ -6,10 +6,9 @@
 
 <div>
    <h3 align="center">A Passionate Frontend Developer</h3>
-   <br/>
-   <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+   <img class="coding-gif" align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
 
-   <ul>
+   <ul class="info-list">
        <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
        <li>🎯 I’m currently learning <strong>Next JS</strong></li>
        <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
@@ -18,6 +17,7 @@
    </ul> 
 </div>
 
+<br/>
 <h3 align="center">Connect with me:</h3>
 <div align="center"> 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
@@ -50,6 +50,7 @@
 </div>
 
 <hr/>
+
 <style>
 @media (max-width: 768px) {
     .coding-gif {
