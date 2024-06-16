@@ -17,7 +17,7 @@
 
 
 <br/>
-<h3 align="center">Connect with me</h3>
+<h2 align="center">📡 Connect with me</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
@@ -34,7 +34,7 @@
 </div>
 
 <br/>
-<h3 align="center">⚒️ Languages And Tools </h3>
+<h2 align="center">⚒️ Languages And Tools </h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind" /><br>
@@ -42,7 +42,7 @@
 </div>
 <br/>
 
-<h3 align="center">⚡ Stats</h3>
+<h2 align="center">⚡ Stats</h2>
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=KhairilRahman04&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=KhairilRahman04&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats"/>
