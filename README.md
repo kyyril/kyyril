@@ -3,8 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
-
-<h2 align="center">Frontend Developer | ReactJS</h2>
+<h2 align="center">A Passionate Frontend Developer</h2>
 <br/>
 <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <ul align="center">
