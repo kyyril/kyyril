@@ -28,6 +28,9 @@
   <a href="https://www.instagram.com/kiril.hrp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-slategrey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=deeppink" target="_blank" />
   </a>
+    <a href="https://www.discord.com/khairilrahman04." target="_blank">
+    <img src="https://img.shields.io/badge/discord-slategrey?style=for-the-badge&labelColor=7289d9&logo=discord" target="_blank" />
+  </a>
 </div>
 
 <br/>
