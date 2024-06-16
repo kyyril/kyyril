@@ -12,12 +12,12 @@
        <li>🎯 I’m currently learning <strong>Next JS</strong></li>
        <li>🌱 I love <strong>Computer Science And Philosophy</strong></li>
        <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
-       <li>📫 How to reach me <strong><a href="mailto:khairilrahmanhakiki04@gmail.com">@Mail</a></strong></li>
+       <li>📫 How to reach me <strong><a href="mailto:khairilrahmanhakiki04@gmail.com">@mail</a></strong></li>
    </ul> 
 
 
 <br/>
-<h2 align="center">📡 Connect with me</h2>
+<h2 align="center">📡 Connect With Me</h2>
 <div align="center"> 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
