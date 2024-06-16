@@ -8,10 +8,12 @@
 <h3 align="center">Frontend Developer | ReactJS</h3>
  
 <div align="center"> 
-    
- 🎯 I’m currently learning **Next JS**
- 🌱 I love computer **Science And Philosophy**
  👨‍💻 I’m a student majoring in **Information Systems**
+ 🎯 I’m currently learning **Next JS**
+ 💬 Ask me about **ReactJs, Tailwind, Javascript... or anything [here](https://github.com/KhairilRahman04/KhairilRahman04/issues)**
+ 📧 How to reach me <a href= "khairilrahmanhakiki@gmail.com">khairilrahmanhakiki@gmail.com</a>
+ 🌱 I love computer **Science And Philosophy**
+ 
 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
