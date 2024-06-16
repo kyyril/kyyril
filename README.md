@@ -17,7 +17,7 @@
 
 
 <br/>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <div align="center"> 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
