@@ -5,8 +5,8 @@
 </h1>
 <br/>
 <h2 align="center">Frontend Developer | ReactJS</h2>
-<img align="right" alt="coding" width=400 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<ul class="centered-list">
+<img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<ul align="center">
     <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
     <li>🎯 I’m currently learning <strong>Next JS</strong></li>
     <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
