@@ -10,9 +10,9 @@
    <ul>
        <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
        <li>🎯 I’m currently learning <strong>Next JS</strong></li>
-       <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
-       <li>📫 How to reach me <strong><a href="mailto:khairilrahmanhakiki04@gmail.com">khairilrahmanhakiki04@gmail.com</a></strong></li>
        <li>🌱 I love <strong>Computer Science And Philosophy</strong></li>
+       <li>📫 How to reach me <strong><a href="mailto:khairilrahmanhakiki04@gmail.com">@Mail</a></strong></li>
+       <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
    </ul> 
 
 
