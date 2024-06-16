@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
    <h3 align="center">A Passionate Frontend Developer</h3>
-<img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF4eWJvZmh0OTBrbXU3dDJzdTJndWg4czdqZ3ZtamU0aTltbDV0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arxiLc5EiFhja/giphy.gif" width="300" style="margin-left: 10px; margin-bottom: 10px;">
+<img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG42a2I3d3F5NGx3N281MHd3NzF4c2Q3dHo5NG1xdnA3bmh1Y210bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOeQ5ghI0n5kc/giphy.gif" width="300" style="margin-left: 10px; margin-bottom: 10px;">
 
    
    <ul>
