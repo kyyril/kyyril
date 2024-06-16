@@ -8,8 +8,7 @@
    <h3 align="center">A Passionate Frontend Developer</h3>
    <img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF4eWJvZmh0OTBrbXU3dDJzdTJndWg4czdqZ3ZtamU0aTltbDV0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arxiLc5EiFhja/giphy.gif"width=300>
 
-   <ul>
-       <p></p>
+   <ul style="margin-top: 20px;">
        <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
        <li>🎯 I’m currently learning <strong>Next JS</strong></li>
        <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
