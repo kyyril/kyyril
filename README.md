@@ -5,11 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
 
-<h3 align="center">A Passionate Frontend Developer | ReactJS</h3>
+<h3 align="center">Frontend Developer | ReactJS</h3>
  
 <div align="center"> 
-
-<p> And also i am a student majoring in Information Systems with a strong passion for programming, especially in web development. </p>
+    
+ 🎯 I’m currently learning **Next JS**
+ 🌱 I love computer **Science And Philosophy**
+ 👨‍💻 I’m a student majoring in **Information Systems**
 
   <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-slategrey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" target="_blank" />
@@ -23,10 +25,10 @@
 </div>
 
  <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
+<h2 align="center">⚒️ Languages And Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind&theme=light" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma&theme=light" />
 </div>
 
