@@ -3,16 +3,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khairil+Rahman!;" />
 </h1>
+
 <h2 align="center">A Passionate Frontend Developer</h2>
-<br/>
 <img align="right" alt="coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119bw505qou94snid6eweqvhw1mz5m0hp83029h79a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<br/>
+
 <ul align="left">
     <li>👨‍💻 I’m a student majoring in <strong>Information Systems</strong></li>
     <li>🎯 I’m currently learning <strong>Next JS</strong></li>
     <li>💬 Ask me about <strong>ReactJs, Tailwind, Javascript... or anything <a href="https://github.com/KhairilRahman04/KhairilRahman04/issues">here</a></strong></li>
     <li>📫 How to reach me <strong><a href="mailto:khairilrahmanhakiki04@gmail.com">khairilrahmanhakiki04@gmail.com</a></strong></li>
-    <li>🌱 I love computer <strong>Science And Philosophy</strong></li>
+    <li>🌱 I love <strong>Computer Science And Philosophy</strong></li>
 </ul>
 
 <br/>
