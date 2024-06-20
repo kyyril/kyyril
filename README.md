@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages And Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,redux,react,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,github,postman,vscode,figma,vercel" />
 </div>
 <br/>
 
