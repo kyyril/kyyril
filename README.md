@@ -38,7 +38,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,postman,vscode,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,git,vscode,figma,vercel" />
 </div>
 <br/>
 
