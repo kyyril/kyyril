@@ -47,7 +47,7 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=kyyril&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kyyril&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
-  <img width="325" src="https://github-stats.omsimos.com/user/kyyril?theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyyril&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <hr/>
