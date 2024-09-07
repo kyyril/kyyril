@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=monaco&size=50&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!;+I%27m+Khairil+Rahman!;&color=FFFFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=50&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+I%27m+Khairil+Rahman!;&color=FFFFFF
+" />
 </h1>
    <h3 align="center">A Frontend Dev</h3>
 <img align="right" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG42a2I3d3F5NGx3N281MHd3NzF4c2Q3dHo5NG1xdnA3bmh1Y210bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOeQ5ghI0n5kc/giphy.gif" width="300" style="margin-left: 10px; margin-bottom: 10px;">
