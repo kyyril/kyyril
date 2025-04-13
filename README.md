@@ -39,6 +39,8 @@
 
 <h2 align="center">⚡ Stats</h2>
 <div align="center">
+   <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=kyyril&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kyyril&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
