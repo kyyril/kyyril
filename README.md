@@ -45,6 +45,15 @@
   <br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyyril&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
      <!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 52 mins   █████████████████████░░░░   83.37 %
+JSON         1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
