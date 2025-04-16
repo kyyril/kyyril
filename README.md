@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
+<a href="https://wakatime.com/@3311999a-8544-4d5e-a9fb-3290da8de41f"><img src="https://wakatime.com/badge/user/3311999a-8544-4d5e-a9fb-3290da8de41f.svg" alt="Total time coded since Feb 27 2025" /></a> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <h3 align="center">Junior Software Enjinir </h3>
 
