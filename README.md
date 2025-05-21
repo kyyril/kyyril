@@ -17,6 +17,15 @@
 <!-- WakaTime Stats -->
 <h3 align="center">⏱️ Weekly Coding Time</h3>
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   40.25 %
+Go           4 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+YAML         2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Docker       1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+```
+
 <!--END_SECTION:waka--> 
 
 
