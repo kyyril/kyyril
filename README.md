@@ -34,9 +34,5 @@
 <h3 align="center">⏱️ Weekly Coding Time</h3>
 <!--START_SECTION:waka-->
 ```txt
-TypeScript   9 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.57 %
-Go           5 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
-YAML         2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Docker       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-<!--END_SECTION:waka--> <!-- Open Source Section --> <h3 align="center">🌍 Open Source Highlights</h3> <p align="center"> 🧠 Active contributor to <a href="https://github.com/vercel/next.js">Next.js</a> based open source projects<br/> 📦 Published useful components & starter templates<br/> 🛠 Actively using <strong>Prisma</strong>, <strong>Supabase</strong>, and <strong>Stripe</strong> in real-world SaaS apps<br/> </p> <!-- Connect --> <h3 align="center">📡 Connect With Me</h3> <p align="center"> <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> ```
+<!--END_SECTION:waka--> 
+<h3 align="center">📡 Connect With Me</h3> <p align="center"> <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> ```
