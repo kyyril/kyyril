@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <!-- Title -->
-<h2 align="center">Khairil Rahman Hakiki | Frontend Developer</h2>
+<h2 align="center">Khairil Rahman | Jr. Software Developer</h2>
 
 <!-- Wakatime Badge -->
 <p align="center">
@@ -33,6 +33,5 @@
 <!-- WakaTime Stats -->
 <h3 align="center">⏱️ Weekly Coding Time</h3>
 <!--START_SECTION:waka-->
-```txt
 <!--END_SECTION:waka--> 
 <h3 align="center">📡 Connect With Me</h3> <p align="center"> <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> ```
