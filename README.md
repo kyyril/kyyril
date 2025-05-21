@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 
 <!-- Title -->
-<h2 align="center">Khairil Rahman | Jr. Software Developer</h2>
+<h2 align="center">Junior Software Developer</h2>
 
 <p align="center"> <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
@@ -39,3 +39,5 @@
   <img src="https://skillicons.dev/icons?i=prisma,postgresql,mysql,firebase,supabase,docker,postman,vscode,figma,vercel" />
 </p>
 
+<br/>
+<br/>
