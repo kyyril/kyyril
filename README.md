@@ -19,7 +19,7 @@
 <!-- WakaTime Stats -->
 <div align="center">
 <!--START_SECTION:waka-->
-  
+
 ```txt
 TypeScript   6 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   40.25 %
 Go           4 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.09 %
