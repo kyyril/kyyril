@@ -4,7 +4,7 @@
 <!-- Title -->
 <h2 align="center">Junior Software Developer</h2>
 
-<p align="center"> <a href="https://linkedin.com/in/khairil-rahman-hakiki/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/khairilrahman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
 
 <!-- Wakatime Badge -->
