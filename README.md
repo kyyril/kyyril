@@ -45,7 +45,7 @@ JSON         49 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- Languages & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,graphql,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,react,nextjs,tailwind,nodejs,graphql,express,vite" /><br/>
   <img src="https://skillicons.dev/icons?i=prisma,postgresql,mysql,firebase,supabase,docker,postman,vscode,figma,vercel" />
 </p>
 
