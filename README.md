@@ -1,5 +1,3 @@
-<!-- Visitor Counter -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KhairilRahman04.KhairilRahman04" />
 <!-- Wakatime Badge -->
 <p align="left">
   <a href="https://wakatime.com/@3311999a-8544-4d5e-a9fb-3290da8de41f">
@@ -45,7 +43,7 @@ JSON         49 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- Languages & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,react,nextjs,tailwind,nodejs,graphql,express,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,react,nextjs,express,tailwind,nodejs,graphql,vite" /><br/>
   <img src="https://skillicons.dev/icons?i=prisma,postgresql,mysql,firebase,supabase,docker,postman,vscode,figma,vercel" />
 </p>
 
