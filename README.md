@@ -49,9 +49,8 @@ Markdown     47 mins         ▓░░░░░░░░░░░░░░░░
 
 
 <p align="center">
-  <img src="https://wakatime.com/share/@kyyril/aecdcf76-c984-46a6-a55a-25ae35708a06.svg" alt="Wakatime Stats" width="600 />
+  <img src="https://wakatime.com/share/@kyyril/9eb071bf-655b-4fb3-a970-6fc2f7c3b2ec.svg" alt="Wakatime Stats" width="600" />
 </p>
 
-<figure><embed src=""></embed></figure>
 <br/>
 <br/>
