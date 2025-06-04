@@ -47,5 +47,8 @@ Markdown     47 mins         ▓░░░░░░░░░░░░░░░░
   <img src="https://skillicons.dev/icons?i=prisma,postgresql,mysql,firebase,supabase,docker,postman,vscode,figma,vercel" />
 </p>
 
+<div align="center">
+  <figure><embed src="https://wakatime.com/share/@kyyril/90595581-6313-4ef6-bb7e-42c9956ac89c.svg"></embed></figure>
+</div>
 <br/>
 <br/>
