@@ -31,9 +31,9 @@ YAML                       3 hrs 7 mins    █▒░░░░░░░░░░�
 
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kyyril&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kyyril&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kyyril&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kyyril&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kyyril&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kyyril&layout=compact&theme=dark)
 
 <!-- Languages & Tools -->
 <p align="center">
