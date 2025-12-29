@@ -32,8 +32,9 @@ YAML                       3 hrs 7 mins    █▒░░░░░░░░░░�
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kyyril&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="GitHub stats"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kyyril&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" alt="Streak stats"/>
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kyyril&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kyyril&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kyyril&layout=compact&theme=dracula)
 </p>
 
 <!-- Most Used Languages -->
