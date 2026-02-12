@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h3 align="center">Junior Software Dev</h3>
+<h3 align="center">Software Engineer I</h3>
 <h2 align="center"> <a href="https://linkedin.com/in/khairilrahman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/kiril.hrp/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=&logoColor=white" /> </a> </h2>
 
 
