@@ -38,7 +38,7 @@ JSON           1 hr 21 mins          █▓░░░░░░░░░░░░�
 <!-- Languages & Tools -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,go,python,java,react,nextjs,express,tailwind,nodejs,graphql,vite" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,prisma,postgresql,mysql,firebase,supabase,docker,kubernetes,nginx,postman,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,postgresql,mysql,mongodb,sqlite,prisma,redis,rabbitmq,firebase,supabase,docker,kubernetes,nginx,grafana,prometheus,postman,githubaction" />
 </p>
 
 
