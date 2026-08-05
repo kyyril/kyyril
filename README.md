@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        1 hr 22 mins          █████████████████████░░░░   84.56 %
-Markdown   10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-PlantUML   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
