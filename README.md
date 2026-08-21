@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                        18 hrs 32 mins        ██████████▒░░░░░░░░░░░░░░   41.65 %
-JavaScript                 15 hrs 34 mins        ████████▓░░░░░░░░░░░░░░░░   35.02 %
-JSON                       2 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-TypeScript                 1 hr 58 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-PowerShell                 1 hr 12 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+TeX                        23 hrs 47 mins        ██████████▓░░░░░░░░░░░░░░   42.09 %
+JavaScript                 18 hrs 31 mins        ████████▒░░░░░░░░░░░░░░░░   32.77 %
+JSON                       3 hrs 37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+TypeScript                 2 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Markdown                   2 hrs 1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka--> 
