@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                        17 hrs 50 mins        ██████████████░░░░░░░░░░░   56.43 %
-Markdown                   5 hrs 32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-OpenEdge ABL               2 hrs 40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-TypeScript                 1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-JavaScript                 1 hr 3 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+TeX                        18 hrs 45 mins        █████████████▒░░░░░░░░░░░   53.90 %
+Markdown                   6 hrs 44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+OpenEdge ABL               2 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+JavaScript                 1 hr 38 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+PlantUML                   1 hr 13 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka--> 
