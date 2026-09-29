@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 4 mins          ████████████████████▒░░░░   81.96 %
-TeX          40 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Batchfile    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
