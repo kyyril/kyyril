@@ -42,9 +42,9 @@ Image (png)    12 mins               █▓░░░░░░░░░░░░�
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://wakatime.com/share/@kyyril/9eb071bf-655b-4fb3-a970-6fc2f7c3b2ec.svg" alt="Wakatime Stats" width="600" />
-</p>
+</p> -->
 
 <br/>
 <br/>
