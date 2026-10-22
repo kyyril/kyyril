@@ -31,8 +31,8 @@ LaTeX        9 mins                ▒░░░░░░░░░░░░░░
 
 <!-- Languages & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,go,python,java,react,nextjs,nodejs,graphql" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,postgresql,mysql,mongodb,sqlite,redis,rabbitmq,firebase,supabase,kubernetes,nginx,grafana,prometheus,postman,githubactions" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,java,nodejs,react,nextjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis,rabbitmq,docker,kubernetes,nginx,grafana,prometheus,aws" />
 </p>
 
 
