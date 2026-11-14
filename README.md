@@ -31,7 +31,7 @@ Go           48 mins               █░░░░░░░░░░░░░░
 
 <!-- Languages & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,rust,nodejs,react,nextjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,nodejs,react,nextjs" /><br/>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis,rabbitmq,docker,kubernetes,nginx,grafana,prometheus,aws" />
 </p>
 
